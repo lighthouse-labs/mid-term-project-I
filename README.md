@@ -1,2 +1,2 @@
-# DataBootcamp_MidtermProject
-Files related to DataBootcamp Midterm Project
+# Mid-Term Project
+This repository cointains all the information you need to work on the Mid-Term project.
