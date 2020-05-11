@@ -17,7 +17,8 @@ We will be working with data from air travel industry. We will have three separa
 
 1. **flights**: The departure and arrival information about flights in US in years 2018 and 2019 and January 2020. January 2020 will be used for evaluation. 
 2. **fuel_comsumption**: The fuel comsumption of different airlines from years 2015-2019 aggregated per month.
-3. **passengers**: The passenger totals on different routes from years 2015-2019 aggregated per month.
+3. **international_passengers**: The passenger totals on different international routes from years 2015-2019 aggregated per month.
+4. **domestic_passengers**: The passenger totals on different domestic routes from years 2015-2019 aggregated per month.
 
 The data are stored in the Postgres database. You will be given the information about host and credentials.
 
