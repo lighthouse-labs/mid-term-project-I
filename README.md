@@ -22,6 +22,11 @@ We will be working with data from air travel industry. We will have four separat
 
 The data are stored in the Postgres database. You will be given the information about host and credentials.
 
+### How to Start
+
+Don't start with the EDA tasks right away. Spend some time with the datasets on your own (there is plenty of time to get to tasks from us later on), try to look for interesting relationships and information inside the tables. Once you are familiar with the tables and information in them you can move on to the tasks from us that will be part of the final presentation. You will then see that they are a piece of cake.
+
+
 
 
 
