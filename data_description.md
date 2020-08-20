@@ -124,7 +124,7 @@ Variables:
 
 ### Table **flights_test**
 
-This table consists of subset of columns from table flights. It represents flights in January 2020 which will be used for evaluation. Therefore, we are missing some features that we are not suppossed to know before the flight lands.
+This table consists of subset of columns from table flights. It represents flights from January 2020 which will be used for evaluation. Therefore, we are missing some features that we are not suppossed to know before the flight lands.
 
 Variables:
 
