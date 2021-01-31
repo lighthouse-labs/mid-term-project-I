@@ -27,6 +27,20 @@ The data are stored in the Postgres database. You will be given the information 
 Don't start with the EDA tasks right away. Spend some time with the datasets on your own (there is plenty of time to get to tasks from us later on), try to look for interesting relationships and information inside the tables. Once you are familiar with the tables and information in them you can move on to the tasks from us that will be part of the final presentation. Then, you will see that they are a piece of cake :).
 
 
+### Presentation Guidelines
+
+Your presentation should have following information.
+
+- 1 slide for each task from **exploratory_analysis.ipynb**. Put an simple informative visualization on each slide.
+- sampling strategy(ies)
+- modeling techniques
+- evaluation metrics 
+    - compare different metrics for various prediction techniques
+    - which model is the best and why?
+- feature importance
+- biggest challenges for your team
 
 
+### Submission Guidelines
 
+- share the link to your project repository
