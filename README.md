@@ -9,8 +9,8 @@ The goal is to predict arrival delays of commercial flights. Often, there isn't 
 
 - **exploratory_analysis.ipynb**: this file contains 10 questions we need to answer during the data exploration phase. They will help us to understand the data and become familiar with different variables.
 - **modeling.ipynb**: this file contains instructions for modeling part of the project. We recommend to split modeling tasks into more notebooks.
-- **data_description.md**: if you are looking for any information regarding specific attributes in the data this is the file to look in.
-- **sample_submission.csv**: this file is an example how the submission for the modeling task should look like.
+- **data_description.md**: when you need to look for any information regarding specific attributes in the data this is the file to look in.
+- **sample_submission.csv**: this file is the example of how the submission of the results should look like.
 
 ### Data
 
