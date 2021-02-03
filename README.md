@@ -26,7 +26,7 @@ The data are stored in the Postgres database. You can see the information about 
 
 ### Presentation Guidelines
 
-The main goal of this presentation is to prepare you for your **Demo Day** at the end of the bootcamp where your time will be capped. Therefore, it' to keep the duration of the presentation to **max 5 minutes** (number of slides doesn't necessarily determine the duration of the presentation). Focus on explaining what you did, how you approached the problem, what you achieved, and, if appropriate, suggest what else could be done. Don't speak to every single task and step there is, focus more on the highlights and interesting findings instead. If you struggled with something, feel free to mention it, but do not undermine your work by highlighting that part.
+The main goal of this presentation is to prepare you for your **Demo Day** at the end of the bootcamp where your time will be capped. Therefore, it's important to keep the duration of the presentation to **max 5 minutes** (number of slides doesn't necessarily determine the duration of the presentation). Focus on explaining what you did, how you approached the problem, what you achieved, and, if appropriate, suggest what else could be done. Don't speak to every single task and step there is, focus more on the highlights and interesting findings instead. If you struggled with something, feel free to mention it, but do not undermine your work by highlighting that part.
 
 1. Spend **1 min** on project flow structure.
     Which steps does your project have?
