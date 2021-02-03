@@ -43,8 +43,8 @@ The main goal of this presentation is to prepare you for your **Demo Day** at th
 
 ### Submission Guidelines
 
-1. share the link to your project repository
-2. share the file named **submission.csv** with the same format as _sample_submission.csv_ that contains the predictions of delays for the first week of the year 2020.
+1. Share the link to your project repository through Compass.
+2. The file with the same format as _sample_submission.csv_,  named **submission.csv** , that contains the predictions of delays for the first week of the year 2020 should be included in the repository as well.
 
 
 ### How to Start
